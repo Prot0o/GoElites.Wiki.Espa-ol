@@ -22,4 +22,4 @@ Esperamos que esta web sirva como una fuente fiable de información sobre nuestr
 - Solución de problemas
 	- [Como reportar un problema](Troubleshooting/TroubleshootingReportGuide.md)
 	- [Soporte WEB](Troubleshooting/WebsiteTroubleshooting.md)
-	- [Soporte EXTRA](Troubleshooting/ApplicationTroubleshooting.md)
+	- [Soporte de Aplicación](Troubleshooting/ApplicationTroubleshooting.md)
