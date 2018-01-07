@@ -8,8 +8,8 @@ Pero antes de enviar su informe, asegúrese de estar familiarizado con los está
 
 En primer lugar, echa un vistazo a la sección [Directrices de reporte](https://goelites.net/index.php?/forum/35-general-assistance/&do=add). Si no puede encontrar una solución a su problema allí, intente utilizar la búsqueda en el foro ([donde?](https://s.put.re/zvYmhVo.png)) y el buscador wiki ([donde?](https://s.put.re/nXLET4e.png)). Existe una gran posibilidad de que la solución a su problema ya haya sido publicada anteriormente. Si no encontró la información que necesitaba, envíe un [Informe](https://goelites.net/index.php?/forum/35-general-assistance/&do=add). Aqui os adelantamos una pequeña lista de informaciñon en relación a lo anterior:
 
-1. **Error logs** (*if there were any*). This will help us identify whether your issue caused by required software malfunction or the loader error.
-2. **The way to reproduce the issue**. If there is some specific way to cause the error to appear - please tell us and we will have more information on whether the issue is on our side or on your.
-3. **What possible solutions have you already tried in order to fix it yourself** (*if you have*). It will help us discard some steps we would have suggested.
-- If you feel like there is anything else to add to help us identify your issue, please include it in your report. More information is better than less, even if it may serve no use in your case. 
-4. When you feel like your report is complete - press "**Start New Topic**" and our team will review it and try to help you as soon as possible. Thanks for your trust and cooperation!
+1. **Logs de error** (*si hay alguno...*). Esto nos ayudará a identificar si su problema fue causado por el mal funcionamiento del software en si, o del loader.
+2. **La forma de reproducir el problema**. Si hay alguna forma específica de hacer que aparezca el error, avísenos y tendremos más información sobre si el problema está de nuestro lado o de usted.
+3. **¿Qué soluciones posibles ya ha probado para solucionarlo por su cuenta?** (*si hay...*). Nos ayudará a descartar algunos pasos que habríamos sugerido.
+- Si cree que hay algo más que agregar para ayudarnos a identificar su problema, inclúyalo en su informe. Más información es mejor que menos, incluso si no sirve para su caso.
+4. Cuando sienta que su informe está completo, presione "**Iniciar nuevo tema**" y nuestro equipo lo revisará e intentará ayudarlo lo antes posible. Gracias por su confianza y cooperación!
