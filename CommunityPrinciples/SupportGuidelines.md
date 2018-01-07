@@ -1,4 +1,4 @@
-**Disclaimer!** While the following article is not required for any regular community member to get acknowledged, it is essential guide for staff. It serves as a display of our customer treatment policies and ultimately declares our customer-centric standpoint.
+**Descargo de resposabilidad** Si bien el siguiente artículo no es obligatorio para que los miembros de la comunidad tengan conciencia de ello, es una guía esencial para el personal de GoElites. Esto nos sirve para mostrar nuestras políticas de tratamiento de clientes y, en última instancia, declara nuestro punto de vista centrado en el cliente.
 
 ---
 
