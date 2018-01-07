@@ -1,37 +1,37 @@
-Read through these guidelines carefully before you go over to the Forums. In case you have noticed someone breaking the rules, report it. Certain rules may not be enforced unless reported.
+Lea atentamente estas pautas antes de ir a los foros. En caso de que hayas notado que alguien ha infringido las reglas, infórmalo. Ciertas reglas no pueden aplicarse a menos que se informe.
 
-**General Rules**
+**Reglas Generales**
 
-- Forum language is English. Other languages are allowed only in multi-language section.
-- No verbal abuse or non-constructive criticism.
-- No disrespectful attitude towards fellow community members.
-- No disrespectful attitude towards GoElites Staff.
-- No multiple accounts allowed. 
-- No account sharing.
-- No other methods of ban evasion.
-- No illegal, filesharing, cracking, hacking activity.
-- No scamming.
-- No thread bumping for no substantial reason.
-- No advertisement or discussion of similar services.
-- No executables are allowed unless from Moderator or higher.
-- No NSFW or offensive content.
-- No posts asking for update or release ETA.
-- No exploit destribution or discussion.
-- No selling or trading.
-- No referral links of any kind.
-- No advertisement links of any kind are allowed.
-- No distractive signatures or ones above a reasonable size. 
-- No spamming outside spam section.
-- No begging of any kind.
-- No donation links.
-- No quoting of rule violating content.
-- No revealing of private information of fellow community members unless given an explicit permission from that member or from Moderator or higher.
-- Staff members are allowed to choose the punishment measures at their own discretion considering the severity of the violation.
+- El idioma del foro es el inglés. Se permiten otros idiomas solo en la sección de idiomas múltiples.
+- Se prohibe el abuso verbal o crítica no constructiva.
+- Se prohibe la actitud irrespetuosa hacia los demás miembros de la comunidad.
+- Se prohibe la actitud irrespetuosa hacia el personal de GoElites.
+- No se permiten las multicuentas.
+- Se prohibe compartir cuentas.
+- Se prohibe evadir prohibiciones
+- Se prohibe la actividad ilegal, compartir archivos, craqueo, piratería etc.
+- Se prohibe estafar.
+- Sin una razón sustancial, se prohibe el abuso de un hilo.
+- No se puede hablar de otros servicios similares a GoElites.Net.
+- Se prohiben compartir o similares de ejecutables que no provengan del Team.
+- No NSFW o contenido ofensivo.
+- Se prohibe estar preguntando contsantemente sobre las futuras actualizaciones.
+- Se prohibe hablar de exploits
+- Se prohibe la venta o cambio.
+- Se prohibe enlaces de referencia de ningún tipo.
+- No se permiten enlaces publicitarios de ningún tipo.
+- Las firmas tienen que tener unas dimensiones decentes y que no distraigan a los demás usuarios.
+- Se castigara a quien spamee fuera de la sección de spam.
+- Se prohibe mendigar.
+- Se prohibe mencionar enlaces de donación.
+- Se prohiben las citas de reglas que violen el contenido.
+- No se revelara información privada de los miembros de la comunidad a menos que se les haya otorgado un permiso explícito de ese miembro o de un Moderador o superior.
+- Los miembros del personal pueden elegir las medidas de castigo a su propio juicio considerando la gravedad de la violación.
 
-**ChatBox Rules** 
+**Reglas del Chat** 
 
-- All General Rules apply.
-- No drama.
-- No abusive behaviour even if done "for fun".
-- Punishments range from 24 hours to permanent suspension from ChatBox.
+- Todas las "Reglas Generales" se aplican al chat también.
+- Sin drama o similar.
+- Se prohibe el comportamiento abusivo.
+- Los castigos pueden ir desde 24 horas, hasta las suspensión total de la cuenta.
  
