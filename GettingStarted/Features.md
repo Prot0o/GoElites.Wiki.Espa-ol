@@ -126,7 +126,7 @@ Si esta encendido, permite cambiar el nombre dentro de la partida tanto de tus a
 
 **Definiciones**:
 
-- **KS** - *killsteal*.
+- **KS** - *killsteal(Robar la muerte)*.
 - **LowHP** - *El objeto se usara cuando tu hp está bajo*.
 - **Combo** - *El objeto se usara en el combo de manera prioritaria*.
 
@@ -155,34 +155,43 @@ Si esta encendido, permite cambiar el nombre dentro de la partida tanto de tus a
 |  | Farsight Ward | Auto Ward Bush; Auto Blue Ward; Use only in Combo. |
 
 
-### Evade
+### Evade ( Secuencias de evación )
 
 | Opción | Proposito|
 |--|--|
-| **Config**: Collision Mode | Enables skillshot collision check. Can be set to check minion, champion collision or both. |
-| **Config**: Block Spells Mode | Enables Evade to use spells that block skillshots instead of dodging. |
-| **Config**: Block Attacks Mode | Enables Evade to use skills that block auto-attack instead of dodging (e.g. *Pantheon Passive*).  |
-| **Config**: Force Fastest Point | Toggles Evade to always choose the fastest route to dodge the spell, disregarding other conditions. |
-| **Config**: Reaction time | Sets a delay before Evade will dodge the spell. |
-| **Config**: IgnoreReactionTime | Toggles Evade to ignore the set reaction time. |
-| **Config**: Disable circular spells dodging | Toggles Evade to dodge only linear skillshots. |
-| **Config**: Disable FOW dodging | Toggles Evade to ignore skillshots which were thrown out of the Fog of War. |
-| **Config**: Disable dodging if shielded | Toggles Evade not to dodge skillshots when under magic shield. |
-| **Config**: Double click to remove | Enables an ability to ignore the skillshot after double LMB click on it's drawing. |
-| **Config**: Enable Evade | Sets a key to toggle Evade ON/OFF. |
-| **Config**: Dodge Only Dangerous | Toggles Evade to dodge only spells which are set as dangerous. |
-| **Evading spells**: SpellName | Enables the use of SpellName to dodge skillshots if cannot dodge by walking. Danger level is a value that the skillshot needs to have in order to make Evade use SpellName to dodge it. |
-| **Spells**: SpellName | Toggles Evade to dodge certain skillshots. Danger level can be adjusted here. Even if spell is disabled, drawings will still be shown unless disabled aswell. |
-| **Humanizer settings**: Spell Detection Delay | Sets a delay in milliseconds before Evade will start to dodge the skillshot. |
-| **Humanizer settings**: Maximum angle | Sets the maximum angle degree between your waypoint route and dodging route. |
-| **Humanizer settings**: Dont Dodge If Alt-Tab | Disables Evade from execution when League of Legends window is not active. |
-| **Humanizer settings**: Ignore Skillshots Not Visible OnScreen | Toggles Evade to ignore skillshots which are cast to the location which is not visible on screen. |
-| **Humanizer settings**: Dont Dodge If Player Is Not Visible OnScreen | Disables dodging when your champion is not on the screen. |
+| **Config**: Collision Mode | Habilita la prueba de colisión de habilidades. Se puede configurar para comprobar tanto los minions, como la colisión del campeón o ambos. |
+| **Config**: Block Spells Mode | Permite que el Evade use hechizos que bloquean las habilidades en vez de esquivarlos. |
+| **Config**: Block Attacks Mode | Permite que el Evade use habilidades que bloquean el autoataque en lugar de esquivar (por ejemplo, *Pantheon pasivo*). |
+| **Config**: Force Fastest Point | Alterna el Evadir para elegir siempre la ruta más rápida para esquivar el hechizo, sin tener en cuenta otras condiciones. |
+| **Config**: Reaction time | Establece un retraso antes de que el Evade esquive el hechizo. |
+| **Config**: IgnoreReactionTime | Alterna el Evadir para ignorar el tiempo de reacción establecido. |
+| **Config**: Disable circular spells dodging | Alterna el Evadir para esquivar solo disparos de habilidades lineales. |
+| **Config**: Disable FOW dodging | Activa el Evadir para ignorar los disparos de habilidades que fueron expulsados de la niebla de guerra. |
+| **Config**: Disable dodging if shielded | Alterna el Evadir para no esquivar las habilidades cuando está bajo el escudo mágico. |
+| **Config**: Double click to remove | Habilita la capacidad de ignorar la habilidad después de hacer doble clic en su dibujo. |
+| **Config**: Enable Evade | Establece una tecla para alternar: Evasión ON / OFF. |
+| **Config**: Dodge Only Dangerous | Activa el Evadir para esquivar solo los hechizos que se configuran como peligrosos. |
+| **Evading spells**: SpellName | Habilita el uso del nombre de las habilidades para esquivar skillshots si no puedes esquivar mientras caminas. El nivel de peligro es un valor que el skillhot debe tener para hacer que el Evade use el nombre de las habilidades para esquivarlas. |
+| **Spells**: SpellName | Alterna el Evadir para esquivar ciertas habilidades. El nivel de peligro se puede ajustar aquí. Incluso si el hechizo está desactivado, los dibujos se mostrarán a menos que estén desactivados. |
+| **Humanizer settings**: Spell Detection Delay | Establece un retraso en milisegundos antes de que el Evade comience a esquivar la habilidad. |
+| **Humanizer settings**: Maximum angle | Establece el grado de ángulo máximo entre la ruta del punto de referencia y la ruta del evade.|
+| **Humanizer settings**: Dont Dodge If Alt-Tab | Desactiva el evade y la ejecución cuando la ventana de League of Legends no está activa. |
+| **Humanizer settings**: Ignore Skillshots Not Visible OnScreen | Alterna  la Evasión para ignorar los disparos de las habilidades que se lanzan a la ubicación que no está visible en la pantalla. |
+| **Humanizer settings**: Dont Dodge If Player Is Not Visible OnScreen | Desactiva el evade cuando tu campeón no está en la pantalla. |
 | **Humanizer settings**: Ignore FOW Exit | TBA | 
 | **Humanizer settings**: Minimal Visiblity Time | TBA |
-| **Drawing settings**: Line Width | Sets the width of Evade drawings' lines. |
-| **Drawing settings**: Draw Evade Status | Shows whether the Evade is enabled under your champion. |
-| **Drawing settings**: Draw Evade Point | Shows a pointer which indicates the evasion route. |
+| **Drawing settings**: Line Width | Establece el ancho de las líneas de los dibujos del Evade. |
+| **Drawing settings**: Draw Evade Status | Muestra si el Evade está habilitado debajo de tu campeón. |
+| **Drawing settings**: Draw Evade Point | Muestra un puntero que indica la ruta de tu Evade. |
+
+| ** Config **: deshabilitar FOW esquivar | 
+| ** Config **: Deshabilitar esquivar si está blindado | 
+| ** Config **: haga doble clic para eliminar | 
+| ** Config **: Habilitar Evadir | 
+| ** Configuración **: Dodge Only Dangerous | 
+| ** Evasión de hechizos **: SpellName | 
+| ** Hechizos **: SpellName | Alterna Evadir para esquivar ciertas habilidades. El nivel de peligro se puede ajustar aquí. Incluso si el hechizo está desactivado, los dibujos se mostrarán a menos que estén desactivados. |
+
 
 ### Humanizador
 | Opción | Proposito|
