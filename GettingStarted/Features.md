@@ -184,15 +184,6 @@ Si esta encendido, permite cambiar el nombre dentro de la partida tanto de tus a
 | **Drawing settings**: Draw Evade Status | Muestra si el Evade está habilitado debajo de tu campeón. |
 | **Drawing settings**: Draw Evade Point | Muestra un puntero que indica la ruta de tu Evade. |
 
-| ** Config **: deshabilitar FOW esquivar | 
-| ** Config **: Deshabilitar esquivar si está blindado | 
-| ** Config **: haga doble clic para eliminar | 
-| ** Config **: Habilitar Evadir | 
-| ** Configuración **: Dodge Only Dangerous | 
-| ** Evasión de hechizos **: SpellName | 
-| ** Hechizos **: SpellName | Alterna Evadir para esquivar ciertas habilidades. El nivel de peligro se puede ajustar aquí. Incluso si el hechizo está desactivado, los dibujos se mostrarán a menos que estén desactivados. |
-
-
 ### Humanizador
 | Opción | Proposito|
 |--|--|
