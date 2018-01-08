@@ -1,34 +1,34 @@
-*Here is a collection of questions that staff and helpful members get asked on daily basis. They are not troubleshooting-related so there are very few reliable sources where answers to these questions can be found. We will try to give comprehensive answers to most of them here!*
+*Aquí hay una colección de preguntas que el personal y los miembros destacados reciben a diario. No están relacionados con la solución de problemas, por lo que hay muy pocas fuentes fiables donde se puedan encontrar las respuestas a estas preguntas. ¡Intentaremos dar respuestas completas a la mayoría de estas aquí!*
 
-### Question 1: How different is GoElites from other services out there?
 
----
-
-In GoElites, our greatest value is your experience as our community member. We strive to provide the best service on the market by supplying you with easy to setup yet exceptionally efficient software and quick yet professional troubleshooting support in case something goes wrong. You're also able to easily get in touch with other like-minded people in our community and find partners to play or even build friendship with. Regardless of what you're willing to do on GoElites (within boundaries set in Community Guidelines above), we will do our best to make it worthwhile!
-
-### Question 2: Can I use your software on my device?
+### Pregunta 1: ¿Qué tan diferente es GoElites de otros servicios similares?
 
 ---
 
-Our software can currently only be ran on devices with Windows 7 or higher installed (and which support .NET Framework 4).
+En GoElites, nuestro mayor valor es su experiencia como miembro de nuestra comunidad. Nos esforzamos por ofrecer el mejor servicio del mercado ofreciéndole un software fácil de configurar pero excepcionalmente eficiente y un soporte de solución de problemas rápido pero profesional en caso de que algo salga mal. También puede ponerse en contacto fácilmente con otras personas de ideas similares en nuestra comunidad y encontrar socios para jugar o incluso para crear vínculos de amistad. Independientemente de lo que esté dispuesto a hacer en GoElites (dentro de los límites establecidos), haremos todo lo posible para que valga la pena su estancia aquí.
 
-### Question 3: Can I help?
-
----
-
-Yes. If you come across someone who has encountered a problem you know how to solve - help him out! Also, if you feel like we lack people who speak your language in our team which allows some violations to stay unnoticed - please reach us out and tell about it. If you are known as helpful and trustworthy member of our community - you'll be able to join our support team.
-
-### Question 4: Will you release an API so other developers can release their scripts?
+### Pregunta 2: ¿Puedo usar su software en mi dispositivo??
 
 ---
 
-No such plans for now!
+Actualmente, nuestro software solo se puede ejecutar en dispositivos con Windows 7 o posterior (y compatibles con .NET Framework 4).
 
-### Question 5: Is there any certain order for champion script releases? What champions should we expect next?
+### Pregunta 3: ¿Puedo ayudar?
 
 ---
 
-First we port OKTW champions, then we will start a poll. Champions are ported in accordance with the demand. 
+Sí. Si te encuentras con alguien que ha encontrado un problema y sabes cómo resolverlo, ¡ayúdalo! Además, si siente que no tenemos personas que hablen su idioma en nuestro equipo, comuníquese con nosotros y mencionenos cosas sobre ello. Si es conocido como un miembro útil y confiable de nuestra comunidad, podrá unirse a nuestro equipo de soporte.
 
 
+### Pregunta 4: ¿GoElites lanzará algún tipo de API para que otros desarrolladores puedan lanzar sus scripts?
+
+---
+
+De momento no hay planes al respecto.
+
+### Pregunta 5: ¿Hay algún orden específico para los lanzamientos de campeones? ¿Qué campeones deberíamos esperar?
+
+---
+
+Primero damos priorida a los campeones de OKTW, luego comenzaremos con el resto, a veces tambien influye la demanda. 
 
