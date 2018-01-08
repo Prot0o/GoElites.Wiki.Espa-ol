@@ -1,25 +1,26 @@
-### How it works
+### Como funciona GoElites
 
-GoElites comes on *All-In-One* basis, which means that everything that we believe player needs in-game is included in one package and is loaded without any additional settings required. Every module, however, is highly customizable and can be adjusted in accordance with user's preferences using in-game menu. Every module can also be disabled. This allows us to keep GoElites easy-to-setup and easy-to-use without taking a toll on precious CPU and RAM.
-
-### Default hotkeys
+GoElites se basa en * All-In-One *, lo que significa que todo lo que creemos que necesita el jugador en el juego está incluido en un paquete y se carga sin ninguna configuración adicional. Sin embargo, cada módulo es altamente personalizable y se puede ajustar de acuerdo con las preferencias del usuario usando el menú del juego. Todos los módulos también pueden ser deshabilitados. Esto nos permite tener un programa fácil de instalar y fácil de usar sin afectar a la CPU y RAM.
 
 
-| Key | Action |
+### Teclas por defecto
+
+
+| Tecla | Acción |
 |--|--|
-| **Left Shift** | Open GoElites menu. |
-| **Spacebar** | Combo. |
+| **Shift izquierdo** | Abre el menu de GoElites. |
+| **Barra espaciadora** | Combo. |
 | **X** | Lasthit. |
 | **C** | Mixed. |
 | **V** | Lane Clear. |
 | **Z** | Flee. |
-| **NUM 1** | Block move in Combo. |
-| **F9** | Reload GoElites. |
-| **Left Mouse Button** | *On enemy champion*: focus selected target; *On anything else*: remove target selection. |
+| **NUM 1** | Bloqueo de movimiento en COMBO. |
+| **F9** | Reinicia GoElites. |
+| **Boton IZQ del ratón** | *En el campeón enemigo*: ataque al enemigo seleccionado; *En otro lado*: Borra el objetivo seleccionado. |
 
-### Visuals
+### Aspectos Visuales
 
-| Option | Purpose |
+| Opción | Proposito|
 |--|--|
 | **Disable all drawings** | Hides all the GoElites-related drawings, including text, awareness, circles, etc. |
 | **Tower ranges** | Displays tower ranges when your champion is near the tower, just as in League of Legends tutorial.|
