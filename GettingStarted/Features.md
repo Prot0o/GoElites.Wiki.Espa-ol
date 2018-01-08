@@ -22,22 +22,22 @@ GoElites se basa en * All-In-One *, lo que significa que todo lo que creemos que
 
 | Opción | Proposito|
 |--|--|
-| **Disable all drawings** | Hides all the GoElites-related drawings, including text, awareness, circles, etc. |
-| **Tower ranges** | Displays tower ranges when your champion is near the tower, just as in League of Legends tutorial.|
-| **Zoom Hack** | Allows you to lift zoom limitations (*does not change zoom by itself; zoom is adjusted via default key set in League of Legends menu*). |
-| **Glow Enabled** | Enables the use of glow. Needs to be enabled in order for other glow drawings to be displayed. |
-| **Glow My Hero** | Displays a glow around your hero for better clarity on battlefield. |
-| **Glow Minions** | Displays a glow around minions which can be last-hitted. |
-| **Glow Selected Target** | Displays a glow around the target selected to be focused. |
+| **Desactivar todos los DRAWS** | Oculta todos los dibujos relacionados con GoElites, incluidos texto, conciencia, círculos, etc. |
+| **Rango torres** | Muestra el rango de las torres.|
+| **Zoom Hack** | Te permite sobrepasar los límites de la camara.|
+| **Brillo Activado** | Permite el uso de brillo. Debe habilitarse para que se muestren otros dibujos luminosos. |
+| **Brillo de mi campeón** | Muestra brillo sobre tu campeón para una mayor visibilidad. |
+| **Brillo de los minions** | Muestra el brillo cuando a los minions les queda poca vida. |
+| **Brillo del campeón seleccionado** | Muestra el brillo alrededor del campéon. |
 
-### Skin Changer
+### Cambio de Aspecto
 
-If enabled, replaces your current skin with the one you've selected in the menu. 
-**Note**: this is a client-side setting and thus your skin can only be seen by you.
+Si esta activo, cambia el aspecto visual de tu campeon por otro que tu selecciones en el menu.
+**Nota**: Los aspectos son solo visibles para ti.
 
-### Awareness & Trackers
+### Awareness & Rastreadores
 
-| Option | Purpose |
+| Opción | Proposito|
 |--|--|
 | **Show hidden objects** | Displays location and timers where invisible objects are placed, such as wards, Shaco boxes, Teemo mushrooms, etc. |
 | **Damage indicators** | Displays the approximate damage you can deal to an enemy with your combo. |
