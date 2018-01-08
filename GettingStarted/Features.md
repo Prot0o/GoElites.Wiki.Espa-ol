@@ -39,35 +39,36 @@ Si esta activo, cambia el aspecto visual de tu campeon por otro que tu seleccion
 
 | Opción | Proposito|
 |--|--|
-| **Show hidden objects** | Displays location and timers where invisible objects are placed, such as wards, Shaco boxes, Teemo mushrooms, etc. |
-| **Damage indicators** | Displays the approximate damage you can deal to an enemy with your combo. |
-| **Enemy auto-attack range** | Displays a circle around enemy champion which represents their auto-attack range. |
-| **Recall tracker** | Displays a tracker which shows up when enemy champion starts recalling. |
-| **Minimap**: Minimap Hack | Displays last seen location of an enemy champion on minimap. |
-| **Minimap**: Glow on missing enemy | Displays a glowing transparent enemy champion model on his last seen location. |
-| **Minimap**: Minimap Circles | Displays circles around missing enemy icons on minimap representing their possible location according to their movement speed. |
-| **Spell tracker**: Show spell LVL | Displays dots on spell tracker representing the spell level. |
-| **Spell tracker**: Ally | Enables spell tracker for ally champions. |
-| **Spell tracker**: Enemy | Enables spell tracker for enemy champions. |
-| **Spell tracker**: Localplayer | Enables spell tracker for your champion. |
-| **Spell tracker**: HP Bar X,Y | Allows you to change spell tracker location relative to healthbar location. **Note**: default values are 0, 0. |
-| **HUD** | Displays HUD with the following information on enemy champions: *summoner spells*, *current or last seen level*, *current or last seen hp and mana*, *time missing*, *ultimate availability*. | 
-| **HUD**: Position X,Y | Allows you to change HUD location on the screen. |
-| **HUD**: Scale | Allows you to change HUD scale. **Note**: default value is 60 |
-| **Gank alert** | Displays a line which shows the distance to an ally, enemy champions which are close to you but don't fit on screen. The bolder the line, the closer the distance. Green lines represent ally champions, red lines represent enemy champions. |
-| **Gank alert**: Only Enemy | Enables gank alert for enemy champions only. |
-| **Gank alert**: Only Junglers | Enables gank alert for champions with Smite only. |
-| **Waypoints**: Show enemy click | Shows the location of an enemy champion movement waypoint. |
-| **Waypoints**: Show ally click | Shows the location on an ally champion movement waypoint. |
+| **Mostrar objetos ocultos** | Muestra la ubicación y los temporizadores donde se colocan los objetos invisibles, como protecciones, cajas Shaco, setas Teemo, etc. |
+| **Indicadores de daños** | Muestra el daño aproximado que puedes hacerle a un enemigo con tu combo. |
+| **Rango de autoataque enemigo** | Muestra un círculo alrededor del campeón enemigo que representa su rango de ataque automático. |
+| **Recorrido de campeón** | Muestra un rastreador que aparece cuando el campeón enemigo comienza a recorrer la zona. |
+| **Minimap**: Minimap Hack | Muestra la última ubicación vista de un campeón enemigo en el minimapa. |
+| **Minimapa**: brilla sobre el enemigo desaparecido | Muestra un brillante modelo de campeón enemigo transparente en su última ubicación. |
+| **Minimapa**: Círculos de Minimapa | Muestra círculos alrededor de los iconos enemigos que faltan en el minimapa que representa su ubicación posible de acuerdo con su velocidad de movimiento. |
+| **Spell tracker**: muestra los LVL | Muestra puntos en el rastreador de hechizos que representan el nivel de hechizo. |
+| **Spell tracker**: Aliados | Habilita el rastreador de hechizos para campeones aliados. |
+| **Spell tracker**: Enemigos | Habilita el rastreador de hechizos para los campeones enemigos. |
+| **Spell tracker**: Jugador local | Habilita el rastreador de hechizos para tu campeón. |
+| **Spell tracker**: HP Bar X, Y | Te permite cambiar la ubicación del rastreador de hechizos en relación con la ubicación de la barra de salud. **Nota**: los valores predeterminados son 0, 0. |
+| **HUD** | Muestra HUD con la siguiente información sobre campeones enemigos: *hechizos de convocante*, *nivel actual o última pocision*, *hp y mana actuales o finales*, *falta de tiempo*, *disponibilidad máxima*. |
+| **HUD**: Posición X, Y | Le permite cambiar la ubicación del HUD en la pantalla. |
+| **HUD**: Escala | Le permite cambiar la escala HUD. **Nota**: el valor predeterminado es 60 |
+| **Alerta de Gankeo** | Muestra una línea que muestra la distancia que hay a un aliado y campeones enemigos que están cerca de ti pero que no caben en la pantalla. Cuanto más audaz es la línea, más cerca está la distancia. Las líneas verdes representan campeones aliados, las líneas rojas representan campeones enemigos. |
+| **Alerta de Gankeo**: Solo Enemigo | Habilita la alerta gank solo para campeones enemigos. |
+| **Alerta de Gankeo**: Solo Junglers | Habilita la alerta gank para campeones de la jungla. |
+| **Puntos de referencia**: Muestra el clic enemigo | Muestra la ubicación de un punto concreto de movimiento del campeón enemigo. |
+| **Waypoints**: Muestra el click aliado | Muestra la ubicación en un waypoint de los clicks de tus aliados. |
 
-### Nickname Changer
 
-If enabled, allows you to change nicknames for both allies and enemies. 
-**Note**: disabling the option after changing one's nickname won't revert the change.
+### Cambio de nombre
 
-### Target Selector
+Si esta encendido, permite cambiar el nombre dentro de la partida tanto de tus alidos como de los enemigos.
+**Nota**: Desactivar la opción, no devuelve el nombre original.
 
-| Option | Purpose |
+### Seleccionar enemigo
+
+| Opción | Proposito|
 |--|--|
 | **Enable selected target focus** | Allows you to choose the target you're willing to focus with the Left Mouse Button click. Put the target on top of the priority list. |
 | **ONLY selected target** | Forces Orbwalker to attack only selected target, ignoring other champions. |
@@ -85,7 +86,7 @@ If enabled, allows you to change nicknames for both allies and enemies.
 
 ### Orbwalker
 
-| Option | Purpose |
+| Opción | Proposito|
 |--|--|
 | **Combo** | Toggles orbwalker to ignore minions or structures. Executes Combo from champion script settings. |
 | **Mixed** | If no last-hittable minion within auto-attack range, attack enemy champion. Executes Harrass from champion script settings. |
@@ -104,14 +105,14 @@ If enabled, allows you to change nicknames for both allies and enemies.
 
 ### Leveler
 
-| Option | Purpose |
+| Opción | Proposito|
 |--|--|
 | **Start at lvl** | Sets a level since which Leveler will be executed |
 | **1 - 3** | Represents the priority of spell levelling. 1 - levels first, 3 - levells last. R is levelled out of order. | 
 
 ### Activator
 
-| Option | Purpose |
+| Opción | Proposito|
 |--|--|
 | **Potions** | Enables the automatical use of potions when champion HP =<50%. |
 | **Summoners** | Enables the use of summoner spells with some extent of customizability. |
@@ -155,7 +156,7 @@ If enabled, allows you to change nicknames for both allies and enemies.
 
 ### Evade
 
-| Option | Purpose |
+| Opción | Proposito|
 |--|--|
 | **Config**: Collision Mode | Enables skillshot collision check. Can be set to check minion, champion collision or both. |
 | **Config**: Block Spells Mode | Enables Evade to use spells that block skillshots instead of dodging. |
@@ -182,8 +183,8 @@ If enabled, allows you to change nicknames for both allies and enemies.
 | **Drawing settings**: Draw Evade Status | Shows whether the Evade is enabled under your champion. |
 | **Drawing settings**: Draw Evade Point | Shows a pointer which indicates the evasion route. |
 
-### Humanizer
-| Option | Purpose |
+### Humanizador
+| Opción | Proposito|
 |--|--|
-| **Block action out screen** | TBA |
-| **Click time ms** | Sets the delay between click commands in milliseconds. |
+| **Bloquear acciones fuera de la pantalla** | TBA |
+| **Tiempo de click MS** | Configurael tiempo en milisegundos. |
