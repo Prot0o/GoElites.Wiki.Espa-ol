@@ -1,6 +1,6 @@
 ### Como funciona GoElites
 
-GoElites se basa en * All-In-One *, lo que significa que todo lo que creemos que necesita el jugador en el juego está incluido en un paquete y se carga sin ninguna configuración adicional. Sin embargo, cada módulo es altamente personalizable y se puede ajustar de acuerdo con las preferencias del usuario usando el menú del juego. Todos los módulos también pueden ser deshabilitados. Esto nos permite tener un programa fácil de instalar y fácil de usar sin afectar a la CPU y RAM.
+GoElites se basa en el modelo * All-In-One *, lo que significa que todo lo que creemos que necesita el jugador en el juego está incluido en un paquete y se carga sin ninguna configuración adicional. Sin embargo, cada módulo es altamente personalizable y se puede ajustar de acuerdo con las preferencias del usuario usando el menú del juego. Todos los módulos también pueden ser deshabilitados. Esto nos permite tener un programa fácil de instalar y fácil de usar sin afectar a la CPU y RAM.
 
 
 ### Teclas por defecto
@@ -70,19 +70,19 @@ Si esta encendido, permite cambiar el nombre dentro de la partida tanto de tus a
 
 | Opción | Proposito|
 |--|--|
-| **Enable selected target focus** | Allows you to choose the target you're willing to focus with the Left Mouse Button click. Put the target on top of the priority list. |
-| **ONLY selected target** | Forces Orbwalker to attack only selected target, ignoring other champions. |
-| **Focus important buffs** | Forces Orbwalker to focus champions who carry red/blue buffs over champions who don't |
-| **Modes**: Auto | Chooses target depending on the mix of criterias, will also focus targets who are =<30% HP.|
-| **Modes**: Low HP | Chooses the lowest HP target to be focused first. |
-| **Modes**: Most AD | Chooses the target with the highest AD to be focused first. |
-| **Modes**: Most AP | Chooses the target with the highest AP to be focused first. |
-| **Modes**: Closest | Chooses the closest target to be focused first. |
-| **Modes**: Near Mouse | Chooses the target closest to the cursor to be focused first. |
-| **Modes**: LessAttack | TBA |
-| **Modes**: LessCast | Chooses the target with the most skills up to be targeted first. |
-| **Modes**: Priority list | Chooses target according to the priority list. |
-| **Priority list** | On priority list, champions with 1 will be focused last, champions with 5 will be focused first. |
+| **Activar selección de objetivo** | Le permite elegir el objetivo que desea enfocar con el botón izquierdo del mouse. Pon el objetivo en la parte superior de la lista de prioridades. |
+| **SOLO el objetivo seleccionado** | Obliga al Orbwalker a atacar solo al objetivo seleccionado, ignorando a otros campeones. |
+| **Atacar a losque lleven buffs** | Prioriza al Orbwalker a atacar a los campeones que tengan bufs rojos / azules sobre los campeones que no lo hacen |
+| **Modos**: Automático | Elige el objetivo según una combinación de criterios, se enfocará en los objetivos que estén = <30% HP.|
+| **Modos**: Poco HP | Chooses the lowest HP target to be focused first. |
+| **Modos**: Con más AD | Elige el objetivo con el AD más alto para atacarlo primero. |
+| **Modos**: Con más AP | Elige el objetivo con el AP más alto para atacarlo primero. |
+| **Modos**: Más cercano | Selecciona al objetivo más cercano. |
+| **Modos**: Cerca del ratón | Elige el objetivo más cercano al cursor para enfocarlo primero. |
+| **Modos**: LessAttack | TBA |
+| **Modos**: LessCast | Elige el objetivo con la mayor cantidad de habilidades para ser el primero en morir. |
+| **Modos**: Lista de prioridad | Selecciona los objetivos acordes a la lista. |
+| **Lista de prioridad** | En la lista de prioridades, los campeones con 1 se centrarán en último lugar, los campeones con 5 se centrarán primero. |
 
 ### Orbwalker
 
