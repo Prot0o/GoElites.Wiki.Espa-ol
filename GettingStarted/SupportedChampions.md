@@ -3,11 +3,11 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Recent</b>: <i>Cassiopeia, Graves, Ryze</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i>Cassiopeia, Graves, Ryze</i> </div>
 
 
 ### ADC
-| Champion name | Forum page |
+| Nombre del campeon | Página del foro |
 |--|--|
 | Ashe | [📜][Ashe] |
 | Caitlyn | [📜][Caitlyn] |
@@ -29,7 +29,7 @@
 | Xayah | [📜][Xayah] |
 
 ### MID
-| Champion name | Forum page |
+| Nombre del campeon | Página del foro |
 |--|--|
 | Ahri | [📜][Ahri] |
 | Brand | [📜][Brand] |
@@ -50,7 +50,7 @@
 | Zoe | [📜][Zoe] |
 
 ### TOP
-| Champion name | Forum page |
+| Nombre del campeon | Página del foro |
 |--|--|
 | Jayce | [📜][Jayce] |
 | Kayle | [📜][Kayle] |
@@ -61,14 +61,14 @@
 | Yasuo | [📜][Yasuo] | 
 
 ### JUNGLER
-| Champion name | Forum page |
+| Nombre del campeon | Página del foro |
 |--|--|
 | Kayle | [📜][Kayle] |
 | Kindred | [📜][Kindred] | 
 | Xin Zhao | [📜][Xin Zhao] | 
 
 ### SUPPORT
-| Champion name | Forum page |
+| Nombre del campeon | Página del foro |
 |--|--|
 | Blitzcrank | [📜][Blitzcrank] |
 | Brand | [📜][Brand] |
