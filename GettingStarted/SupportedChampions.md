@@ -1,4 +1,4 @@
-*Here is the list of currently supported champions. To keep track of newly added champions, please follow the #changelog channel on our Discord*.
+*Aquí está la lista de campeones que GoElites soporta actualmente. Para realizar un seguimiento de los nuevos campeones añadidos, siga el canal el apartado de #changelog en nuestro Discord*.
 
 ---
 
