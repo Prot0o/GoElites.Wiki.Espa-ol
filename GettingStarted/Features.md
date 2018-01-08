@@ -88,50 +88,51 @@ Si esta encendido, permite cambiar el nombre dentro de la partida tanto de tus a
 
 | Opción | Proposito|
 |--|--|
-| **Combo** | Toggles orbwalker to ignore minions or structures. Executes Combo from champion script settings. |
-| **Mixed** | If no last-hittable minion within auto-attack range, attack enemy champion. Executes Harrass from champion script settings. |
-| **LaneClear** | If no enemy champion within auto-attack range, attack structures and minions in order to clear lane in the most efficient manner. Executes Lane Clear from champion script settings. |
-| **LastHit** | Toggles orbwalker to ignore enemy champions. Lasthits minions within auto-attack range. |
-| **Combo no-move** | Toggles orbwalker to not move when executing Combo. |
-| **Flee** | Ignores enemy minions and champions. Executes Flee from champion script settings. |
-| **Hold area radius** | Sets a radius of a circular area around your champion which, when cursor is within it's area, will toggle Orbwalker not to move. |
-| **Disable auto-attack lvl** | Disables autoattacks in Combo after reaching set champion level. **Note**: 0 = disable. |
-| **Support mode** | Ignores minions when ally champion is around. |
-| **Drawings**: Draw player range | Displays your champion attack range. |
-| **Drawings**: Hold area | Displays hold area radius drawing. |
-| **Advance**: WindUp time | Sets a time in milliseconds before your next autoattack's executed. |
-| **Advance**: Auto adjust LastHit | Automatically adjusts WindUp time according to your ping. |
-| **Advance**: Attack plants | Toggles orbwalker to attack plants. |
+| **Combo** | Ejecuta la seccuencia de acciones que hace referencia a otro campeón enemigo ignorando por completo los minions.|
+| **Mixto** | Si no hay ningún súbdito a punto de morir dentro del rango de ataque automático, tu campeón ataca al campeón enemigo. Ejecuta Harrass desde la configuración del script del campeón. |
+| **LaneClear** | Si no hay un campeón enemigo dentro del rango de ataque automático, ataca las estructuras y los minions para despejar el carril de la manera más eficiente. Ejecuta Lane Clear desde la configuración del script del campeón.|
+| **LastHit** | Alterna el orbwalker para ignorar a los campeones enemigos. Les da el último golpe. |
+| **Combo sin movimiento** | Ejecuta el combo sin ningún tipo de movimiento.  |
+| **Flee** | Ejecuta la secuencia de huida para escapar. |
+| **Mantener area** | Establece un radio de un área circular alrededor de tu campeón que, cuando el cursor esté dentro de su área, alternará el Orbwalker para que no se mueva. |
+| **Deshabilitar el ataque automático al subir de lvl** | Inhabilita el autoataque en el Combo luego de alcanzar el nivel de campeón establecido. **Nota**: 0 = disable. |
+| **Modo de SUPPORT** | Ignora los minions cuando un campeón aliado esta cerca. |
+| **Drawings**: Dibujar el rango del jugador | Muestra el rango de ataque del campeón. |
+| **Drawings**: Area de espera | Muestra el area de espera en el momento. |
+| **Avanzado**: Tiempo WindUP | Establece un tiempo en milisegundos antes de que se ejecute su próximo autoataque. |
+| **Avanzado**: Ajuste de lasthit | Se ajusta automaticamnete acorde a tu ping. |
+| **Avanzado**: Atacar plantas | Alterna el Orbwalker para tacar las plantas. |
 
-### Leveler
+### Subir nivel de habilidades
 
 | Opción | Proposito|
 |--|--|
-| **Start at lvl** | Sets a level since which Leveler will be executed |
-| **1 - 3** | Represents the priority of spell levelling. 1 - levels first, 3 - levells last. R is levelled out of order. | 
+| **Start at lvl** | Se establece a que level se comenzaran a subir. |
+| **1 - 3** | Representa la prioridad de la nivelación de hechizos. 1 - niveles primero, 3 - niveles últimos. R está nivelado fuera de servicio.
+ | 
 
 ### Activator
 
 | Opción | Proposito|
 |--|--|
-| **Potions** | Enables the automatical use of potions when champion HP =<50%. |
-| **Summoners** | Enables the use of summoner spells with some extent of customizability. |
-| **Offensive** | Enables the use of offensive items. |
-| **Defensive**| Enables the use of defensive items. |
-| **Clean** | Enables the use of cleanse spells and items with some extent of customizability. |
-| **Wards** | Enables the use of wards. |
+| **Potions** | Permite el uso automático de pociones cuando el campeón esta en HP = <50%. |
+| **Summoners** | Permite el uso de hechizos de invocador con cierto grado de personalización. |
+| **Offensive** | Permite el uso de elementos ofensivos. |
+| **Defensive**| Permite el uso de elementos defensivos. |
+| **Clean** | Permite el uso de hechizos y elementos de limpieza con cierto grado de personalización. |
+| **Wards** | Permite el uso de wards. |
 
-### Activator: Supported Items
+### Activador de items de support
 
-**Definitions**:
+**Definiciones**:
 
 - **KS** - *killsteal*.
-- **LowHP** - *item will be used when your HP is low*.
-- **Combo** - *item will be used right away in combo on prioritized target*.
+- **LowHP** - *El objeto se usara cuando tu hp está bajo*.
+- **Combo** - *El objeto se usara en el combo de manera prioritaria*.
 
-| Category | Name | Options |
+| Categoría | Nombre | Opciones |
 |--|--|--|
-| **Offensive** | Blade of the Ruined King (*BotRK*) | KS; LowHP; Combo. |
+| **Ofensivos** | Blade of the Ruined King (*BotRK*) | KS; LowHP; Combo. |
 |  | Bilgewater Cutlass (*Cutlass*) | KS; Combo. |
 |  | Hextech Gunblade (*Hextech*) | KS; Combo. |
 |  | Hextech Protobelt-01 (*Protobelt*) | KS; Combo. |
@@ -139,16 +140,16 @@ Si esta encendido, permite cambiar el nombre dentro de la partida tanto de tus a
 |  | Youmuu's Ghostblade (*Youmuus*) | KS (?); Combo. |
 |  | Ravenous Hydra (*Hydra 2*) | N/A |
 |  | Titanic Hydra (*Hydra Titanic*) | N/A |
-| **Defensive** | Frost Queen's Claim (*Frost Queen*) | N/A |
+| **Defensivos** | Frost Queen's Claim (*Frost Queen*) | N/A |
 |  | Redemption | N/A |
 |  | Randuin's Omen (*Randuin*) | N/A |
 |  | Face of the Mountain | N/A |
 |  | Seraph's Embrace | N/A |
 |  | Locket of the Iron Solari (*Solari*) | N/A |
 |  | Zhonya's Hourglass (*Zhonya*) | N/A |
-| **Cleanse** | Quicksilver Sash | Cleanse Stun; Snare; Charm; Fear&Flee; Suppression; Taunt; Blind; Polymorph. |
+| **Limpiadores entre otros** | Quicksilver Sash | Cleanse Stun; Snare; Charm; Fear&Flee; Suppression; Taunt; Blind; Polymorph. |
 |  | Mercurial Scimitar | Cleanse Stun; Snare; Charm; Fear&Flee; Suppression; Taunt; Blind; Polymorph. |
-| **Wards** | Totem Ward | Auto Ward Bush; Use only in Combo. |
+| **Guardianes** | Totem Ward | Auto Ward Bush; Use only in Combo. |
 |  | Control Ward | Auto Ward Bush; Use only in Combo. |
 |  | [Stealth Ward](http://leagueoflegends.wikia.com/wiki/Ward#Stealth_Ward) | Auto Ward Bush; Use only in Combo. |
 |  | Farsight Ward | Auto Ward Bush; Auto Blue Ward; Use only in Combo. |
