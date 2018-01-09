@@ -2,7 +2,7 @@ site_name: GoElites Wiki
 repo_url: https://github.com/y1n/GoElites.Wiki
 pages:
 - Inicio: index.md
-- Reglas:
+- Principales:
 
     - Reglas de la Comunidad: CommunityPrinciples/CommunityGuidelines.md
     - Temas de soporte: CommunityPrinciples/SupportGuidelines.md
