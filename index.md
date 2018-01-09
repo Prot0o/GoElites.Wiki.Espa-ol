@@ -12,17 +12,14 @@ Esperamos que esta web sirva como una fuente fiable de información sobre nuestr
 
 ## Contenido
 - Principales
-
 	- [Reglas de la Comunidad](CommunityPrinciples/CommunityGuidelines.md)
 	- [Temas de soporte](CommunityPrinciples/SupportGuidelines.md)
 - Para Comenzar
-
 	- [Guía de instalación GoElites.Net](GettingStarted/Installation.md)
 	- [Características explicadas](GettingStarted/Features.md)
 	- [Campeones que soporta GoElite](GettingStarted/SupportedChampions.md)
 	- [Preguntas frecuentes](GettingStarted/FrequentlyAskedQuestions.md)
 - Solución de problemas
-
 	- [Como reportar un problema](Troubleshooting/TroubleshootingReportGuide.md)
 	- [Soporte WEB](Troubleshooting/WebsiteTroubleshooting.md)
 	- [Soporte de Aplicación](Troubleshooting/ApplicationTroubleshooting.md)
