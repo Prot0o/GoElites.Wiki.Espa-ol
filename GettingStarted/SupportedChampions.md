@@ -36,6 +36,7 @@
 | Cassiopeia | [📜][Cassiopeia] |
 | Jayce | [📜][Jayce] |
 | Karthus | [📜][Karthus] |
+| Katarina | [📜][Katarina] |
 | Kayle | [📜][Kayle] |
 | Kog'Maw | [📜][KogMaw] |
 | Orianna | [📜][Orianna] |
@@ -89,6 +90,7 @@
 [Jayce]: https://goelites.net/index.php?/topic/512-jayce/
 [Jhin]: https://goelites.net/index.php?/topic/351-jhin/
 [Jinx]: https://goelites.net/index.php?/topic/8-jinx/
+[Katarina]: https://goelites.net/index.php?/topic/989-katarina/
 [Kalista]: https://goelites.net/index.php?/topic/9-kalista/
 [Karthus]: https://goelites.net/index.php?/topic/682-karthus/
 [Kayle]: https://goelites.net/index.php?/topic/10-kayle/
