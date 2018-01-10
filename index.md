@@ -1,5 +1,9 @@
 **Bienvenidos a GoElites.Wiki**! [[Foro](https://goelites.net)] [[Discord](https://discord.gg/m7RctYk)]
+
+
 TEST
+
+
 Esperamos que esta web sirva como una fuente fiable de información sobre nuestro producto y la comunidad en general. Si algo es de su interés y no se responde en las secciones de nuestra página, comuníquese con nosotros vía foro o canal de Discord.
 
 ## Traducciones
