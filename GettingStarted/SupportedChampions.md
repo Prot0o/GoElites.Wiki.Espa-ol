@@ -3,7 +3,7 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i>Katarina</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i>Katarina & Master Yi</i> </div>
 
 
 ### ADC
@@ -66,7 +66,9 @@
 |--|--|
 | Kayle | [📜][Kayle] |
 | Kindred | [📜][Kindred] | 
+| Master Yi | [📜][Master Yi] | 
 | Xin Zhao | [📜][Xin Zhao] | 
+
 
 ### SUPPORT
 | Nombre del campeon | Página del foro |
@@ -100,6 +102,7 @@
 [Lucian]: https://goelites.net/index.php?/topic/12-lucian/
 [Lulu]: https://goelites.net/index.php?/topic/623-lulu/
 [Miss Fortune]: https://goelites.net/index.php?/topic/572-miss-fortune/
+[Master Yi]: https://goelites.net/index.php?/topic/1026-master-yi/
 [Nasus]: https://goelites.net/index.php?/topic/886-nasus/
 [Orianna]: https://goelites.net/index.php?/topic/13-orianna/
 [Sivir]: https://goelites.net/index.php?/topic/805-sivir/
