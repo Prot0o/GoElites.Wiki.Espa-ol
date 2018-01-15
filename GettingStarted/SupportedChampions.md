@@ -3,7 +3,7 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i>Katarina & Master Yi</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i>Katarina & Master Yi & Lee Sin</i> </div>
 
 
 ### ADC
@@ -66,6 +66,7 @@
 |--|--|
 | Kayle | [📜][Kayle] |
 | Kindred | [📜][Kindred] | 
+| Lee Sin | [📜][Lee Sin] | 
 | Master Yi | [📜][Master Yi] | 
 | Xin Zhao | [📜][Xin Zhao] | 
 
@@ -98,6 +99,7 @@
 [Kayle]: https://goelites.net/index.php?/topic/10-kayle/
 [Kindred]: https://goelites.net/index.php?/topic/481-kindred/
 [KogMaw]: https://goelites.net/index.php?/topic/11-kogmaw/
+[Lee Sin]: https://goelites.net/index.php?/topic/1051-lee-sin/
 [Leona]: https://goelites.net/index.php?/topic/837-leona/
 [Lucian]: https://goelites.net/index.php?/topic/12-lucian/
 [Lulu]: https://goelites.net/index.php?/topic/623-lulu/
