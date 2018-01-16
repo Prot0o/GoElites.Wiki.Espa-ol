@@ -82,7 +82,7 @@
 | Thresh | [📜][Thresh] |
 | Vel'Koz | [📜][VelKoz] |
 
-### BETA 
+### Campeones en modo BETA 
 | Nombre del campeon | 
 |--|--|
 | Olaf | 
