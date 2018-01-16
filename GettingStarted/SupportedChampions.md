@@ -82,9 +82,8 @@
 | Thresh | [📜][Thresh] |
 | Vel'Koz | [📜][VelKoz] |
 
-
-
 ### BETA 
+| Nombre del campeon | Página del foro |
 |--|--|
 | Olaf | 
 | Soraka | 
