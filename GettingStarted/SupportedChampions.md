@@ -83,7 +83,7 @@
 | Vel'Koz | [📜][VelKoz] |
 
 ### BETA 
-| Nombre del campeon | Página del foro |
+| Nombre del campeon | 
 |--|--|
 | Olaf | 
 | Soraka | 
