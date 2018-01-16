@@ -85,6 +85,7 @@
 
 
 ### BETA 
+|--|--|
 | Olaf | 
 | Soraka | 
 
