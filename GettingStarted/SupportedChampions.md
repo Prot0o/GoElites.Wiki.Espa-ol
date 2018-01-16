@@ -82,6 +82,12 @@
 | Thresh | [📜][Thresh] |
 | Vel'Koz | [📜][VelKoz] |
 
+
+
+### BETA 
+| Olaf | 
+| Soraka | 
+
 [Ahri]: https://goelites.net/index.php?/topic/391-ahri/
 [Ashe]: https://goelites.net/index.php?/topic/4-ashe/
 [Blitzcrank]: https://goelites.net/index.php?/topic/5-blitzcrank/
