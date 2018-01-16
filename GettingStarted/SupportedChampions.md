@@ -3,7 +3,7 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i>Katarina & Master Yi & Lee Sin</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i> Olaf & Soraka BETA</i> </div>
 
 
 ### ADC
@@ -82,11 +82,6 @@
 | Thresh | [📜][Thresh] |
 | Vel'Koz | [📜][VelKoz] |
 
-### Campeones en modo BETA 
-| Nombre del campeon |  |  
-|--|--|
-| Olaf | 
-| Soraka | 
 
 [Ahri]: https://goelites.net/index.php?/topic/391-ahri/
 [Ashe]: https://goelites.net/index.php?/topic/4-ashe/
