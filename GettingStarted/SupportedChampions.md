@@ -83,7 +83,7 @@
 | Vel'Koz | [📜][VelKoz] |
 
 ### Campeones en modo BETA 
-| Nombre del campeon |  
+| Nombre del campeon |  |  
 |--|--|
 | Olaf | 
 | Soraka | 
