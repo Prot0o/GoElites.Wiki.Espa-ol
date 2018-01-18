@@ -56,6 +56,7 @@
 | Jayce | [📜][Jayce] |
 | Kayle | [📜][Kayle] |
 | Nasus | [📜][Nasus] |
+| Olaf | [📜][Olaf] |
 | Teemo | [📜][Teemo] |
 | Urgot | [📜][Urgot] |
 | Xin Zhao | [📜][Xin Zhao] |
@@ -79,6 +80,7 @@
 | Leona | [📜][Leona] |
 | Lulu | [📜][Lulu] |
 | Morgana | [📜][Morgana] |
+| Soraka | [📜][Soraka] |
 | Thresh | [📜][Thresh] |
 | Vel'Koz | [📜][VelKoz] |
 
@@ -107,9 +109,11 @@
 [Miss Fortune]: https://goelites.net/index.php?/topic/572-miss-fortune/
 [Master Yi]: https://goelites.net/index.php?/topic/1026-master-yi/
 [Nasus]: https://goelites.net/index.php?/topic/886-nasus/
+[Olaf]: https://goelites.net/index.php?/topic/1080-olaf/
 [Orianna]: https://goelites.net/index.php?/topic/13-orianna/
 [Sivir]: https://goelites.net/index.php?/topic/805-sivir/
 [Syndra]: https://goelites.net/index.php?/topic/248-syndra/
+[Soraka]: https://goelites.net/index.php?/topic/1081-soraka/
 [Teemo]: https://goelites.net/index.php?/topic/532-teemo/
 [Thresh]: https://goelites.net/index.php?/topic/392-thresh/
 [Tristana]: https://goelites.net/index.php?/topic/14-tristana/
