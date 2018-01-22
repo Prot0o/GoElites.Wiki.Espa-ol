@@ -54,6 +54,7 @@
 | Nombre del campeon | Página del foro |
 |--|--|
 | Jayce | [📜][Jayce] |
+| Jax | [📜][Jax] |
 | Kayle | [📜][Kayle] |
 | Nasus | [📜][Nasus] |
 | Olaf | [📜][Olaf] |
@@ -94,6 +95,7 @@
 [Draven]: https://goelites.net/index.php?/topic/142-draven/
 [Ezreal]: https://goelites.net/index.php?/topic/7-ezreal/
 [Jayce]: https://goelites.net/index.php?/topic/512-jayce/
+[Jax]: https://goelites.net/index.php?/topic/1147-jax/
 [Jhin]: https://goelites.net/index.php?/topic/351-jhin/
 [Jinx]: https://goelites.net/index.php?/topic/8-jinx/
 [Katarina]: https://goelites.net/index.php?/topic/989-katarina/
