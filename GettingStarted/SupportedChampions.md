@@ -3,7 +3,7 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i> Jax</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i> Lux & Veigar</i> </div>
 
 
 ### ADC
@@ -45,6 +45,8 @@
 | Twisted Fate | [📜][Twisted Fate] |
 | Vel'Koz | [📜][VelKoz] |
 | Viktor | [📜][Viktor] |
+| Veigar | [📜][Veigar] |
+| Lux | [📜][Lux] |
 | Xerath | [📜][Xerath] |
 | Yasuo | [📜][Yasuo] |
 | Zed | [📜][Zed] |
@@ -126,6 +128,8 @@
 [Vayne]: https://goelites.net/index.php?/topic/17-vayne/ 
 [VelKoz]: https://goelites.net/index.php?/topic/439-velkoz/
 [Viktor]: https://goelites.net/index.php?/topic/18-viktor/
+[Veigar]: https://goelites.net/index.php?/topic/1456-veigar/
+[Lux]: https://goelites.net/index.php?/topic/1362-lux/
 [Xayah]: https://goelites.net/index.php?/topic/45-xayah/
 [Xerath]: https://goelites.net/index.php?/topic/19-xerath/
 [Xin Zhao]: https://goelites.net/index.php?/topic/836-xin-zhao/
