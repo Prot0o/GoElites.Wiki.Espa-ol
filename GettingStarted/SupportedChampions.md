@@ -55,6 +55,7 @@
 ### TOP
 | Nombre del campeon | Página del foro |
 |--|--|
+| Fiora | [📜][Fiora] |
 | Jayce | [📜][Jayce] |
 | Jax | [📜][Jax] |
 | Kayle | [📜][Kayle] |
@@ -96,6 +97,7 @@
 [Corki]: https://goelites.net/index.php?/topic/293-corki/
 [Draven]: https://goelites.net/index.php?/topic/142-draven/
 [Ezreal]: https://goelites.net/index.php?/topic/7-ezreal/
+[Fiora]: https://goelites.net/index.php?/topic/1581-fiora/
 [Jayce]: https://goelites.net/index.php?/topic/512-jayce/
 [Jax]: https://goelites.net/index.php?/topic/1147-jax/
 [Jhin]: https://goelites.net/index.php?/topic/351-jhin/
