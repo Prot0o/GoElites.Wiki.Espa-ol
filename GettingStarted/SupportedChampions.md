@@ -3,7 +3,7 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i> Fiora</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i> Fiora & Janna</i> </div>
 
 
 ### ADC
@@ -83,6 +83,7 @@
 | Brand | [📜][Brand] |
 | Leona | [📜][Leona] |
 | Lulu | [📜][Lulu] |
+| Janna | [📜][Janna] |
 | Morgana | [📜][Morgana] |
 | Soraka | [📜][Soraka] |
 | Thresh | [📜][Thresh] |
@@ -102,6 +103,7 @@
 [Jax]: https://goelites.net/index.php?/topic/1147-jax/
 [Jhin]: https://goelites.net/index.php?/topic/351-jhin/
 [Jinx]: https://goelites.net/index.php?/topic/8-jinx/
+[Janna]: https://goelites.net/index.php?/topic/1606-janna/
 [Katarina]: https://goelites.net/index.php?/topic/989-katarina/
 [Kalista]: https://goelites.net/index.php?/topic/9-kalista/
 [Karthus]: https://goelites.net/index.php?/topic/682-karthus/
