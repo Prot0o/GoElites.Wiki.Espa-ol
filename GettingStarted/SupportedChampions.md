@@ -3,7 +3,7 @@
 ---
 
 
-<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i> Fiora & Janna</i> </div>
+<div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i> Nidalee & Eve</i> </div>
 
 
 ### ADC
@@ -69,6 +69,8 @@
 ### JUNGLER
 | Nombre del campeon | Página del foro |
 |--|--|
+| Evelynn | [📜][Evelynn] |
+| Nidalee | [📜][Nidalee] |
 | Kayle | [📜][Kayle] |
 | Kindred | [📜][Kindred] | 
 | Lee Sin | [📜][Lee Sin] | 
@@ -98,6 +100,7 @@
 [Corki]: https://goelites.net/index.php?/topic/293-corki/
 [Draven]: https://goelites.net/index.php?/topic/142-draven/
 [Ezreal]: https://goelites.net/index.php?/topic/7-ezreal/
+[Evelynn]: https://goelites.net/index.php?/topic/1769-evelynn/
 [Fiora]: https://goelites.net/index.php?/topic/1581-fiora/
 [Jayce]: https://goelites.net/index.php?/topic/512-jayce/
 [Jax]: https://goelites.net/index.php?/topic/1147-jax/
@@ -141,6 +144,7 @@
 [Zed]: https://goelites.net/index.php?/topic/661-zed/
 [Zoe]: https://goelites.net/index.php?/topic/808-zoe/
 [Morgana]: https://goelites.net/index.php?/topic/765-morgana/
+[Nidalee]:https://goelites.net/index.php?/topic/1706-nidalee/
 [Ryze]: https://goelites.net/index.php?/topic/931-ryze/
 [Graves]: https://goelites.net/index.php?/topic/948-graves/
 [Cassiopeia]: https://goelites.net/index.php?/topic/965-cassiopeia/
