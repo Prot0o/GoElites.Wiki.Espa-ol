@@ -9,7 +9,7 @@ En GoElites, nuestro mayor valor es su experiencia como miembro de nuestra comun
 </p>
 </div>
 
-### Pregunta 2: ¿Puedo usar su software en mi dispositivo??
+### Pregunta 2: ¿Puedo usar su software en mi dispositivo?
 <div class="admonition tip">
 <p class="first admonition-title">Respuesta</p>
 <p class="last">
