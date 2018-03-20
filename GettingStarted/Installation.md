@@ -20,7 +20,7 @@ Para instalar GoElites, siempre que se hayan instalado todos los requisitos prev
 <div class="admonition tip" style="margin-bottom: 5px";>
 <p class="first admonition-title">Nota</p>
 <p class="last"> Para evitar algunos problemas, le recomendamos que la ruta de destino de GoElites solo contenga caracteres de<strong> A-Z 1-9</strong></p>
-</div>.
+</div>
 <div class='square-box'><div class='square-content'><div><span>3</span></div></div></div> Ejecute GoElites Loader en modo administrador.</br>
 <div class='square-box'><div class='square-content'><div><span>4</span></div></div></div> Entre en su cuenta de GoElites.</br>
 <div class='square-box'><div class='square-content'><div><span>5</span></div></div></div> Espere a que se cierre la ventana de inicio de sesión y la de la línea de comando con texto ``Waiting for League of Legends.exe...``.</br>
