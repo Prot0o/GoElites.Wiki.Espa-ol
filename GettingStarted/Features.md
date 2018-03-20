@@ -33,7 +33,11 @@ GoElites se basa en el modelo * All-In-One *, lo que significa que todo lo que c
 ### Cambio de Aspecto
 
 Si esta activo, cambia el aspecto visual de tu campeon por otro que tu selecciones en el menu.
-**Nota**: Los aspectos son solo visibles para ti.
+
+<div class="admonition tip">
+<p class="first admonition-title">Nota</p>
+<p class="last">Los aspectos son solo visibles para ti.</p>
+</div>
 
 ### Awareness & Rastreadores
 
@@ -64,7 +68,11 @@ Si esta activo, cambia el aspecto visual de tu campeon por otro que tu seleccion
 ### Cambio de nombre
 
 Si esta encendido, permite cambiar el nombre dentro de la partida tanto de tus alidos como de los enemigos.
-**Nota**: Desactivar la opción, no devuelve el nombre original.
+
+<div class="admonition tip">
+<p class="first admonition-title">Nota</p>
+<p class="last">Desactivar la opción, no devuelve el nombre original.</p>
+</div>
 
 ### Seleccionar enemigo
 
@@ -124,11 +132,15 @@ Si esta encendido, permite cambiar el nombre dentro de la partida tanto de tus a
 
 ### Activador de items de support
 
-**Definiciones**:
-
-- **KS** - *killsteal(Robar la muerte)*.
-- **LowHP** - *El objeto se usara cuando tu hp está bajo*.
-- **Combo** - *El objeto se usara en el combo de manera prioritaria*.
+<div class="admonition tip">
+<p class="first admonition-title">Definiciones/p>
+<p class="last">
+1. <strong>KS</strong> — Robar la muerte con el objeto.</br>
+2. <strong>LowHP</strong> — El objeto se usara cuando tu hp está bajo.</br>
+3. <strong>Combo</strong> — El objeto se usara en el combo de manera prioritaria</br>
+4. <strong>N/A</strong> — Sin opcion a perzonalizar.
+</p>
+</div>
 
 | Categoría | Nombre | Opciones |
 |--|--|--|
