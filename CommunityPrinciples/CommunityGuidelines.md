@@ -1,6 +1,9 @@
-Lea atentamente estas pautas antes de ir a los foros. En caso de que hayas notado que alguien ha infringido las reglas, infórmalo. Ciertas reglas no pueden aplicarse a menos que se informe.
+<div class="admonition warning">
+<p class="first admonition-title">Warning</p>
+<p class="last">Lea atentamente estas pautas antes de ir al <a href="https://goelites.net/">Foro</a>. En caso de que hayas notado que alguien ha infringido las reglas, infórmalo. Ciertas reglas no pueden aplicarse a menos que se informe.</p>
+</div>
 
-**Reglas Generales**
+###Reglas Generales
 
 - El idioma del foro es el inglés. Se permiten otros idiomas solo en la sección de idiomas múltiples.
 - Se prohibe el abuso verbal o crítica no constructiva.
@@ -28,7 +31,7 @@ Lea atentamente estas pautas antes de ir a los foros. En caso de que hayas notad
 - No se revelara información privada de los miembros de la comunidad a menos que se les haya otorgado un permiso explícito de ese miembro o de un Moderador o superior.
 - Los miembros del personal pueden elegir las medidas de castigo a su propio juicio considerando la gravedad de la violación.
 
-**Reglas del Chat** 
+###Reglas del Chat
 
 - Todas las "Reglas Generales" se aplican al chat también.
 - Sin drama o similar.
