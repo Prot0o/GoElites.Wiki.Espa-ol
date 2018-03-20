@@ -37,7 +37,7 @@ a.header_link span {
     <a class="header_link" href="https://discord.gg/m7RctYk"><span>></span> Discord</a>
 </div>
 
-**Bienvenidos a GoElites.Wiki**! [[Foro](https://goelites.net)] [[Discord](https://discord.gg/m7RctYk)]
+**Bienvenidos a GoElites.Wiki**!
 
 Esperamos que esta web sirva como una fuente fiable de información sobre nuestro producto y la comunidad en general. Si algo es de su interés y no se responde en las secciones de nuestra página, comuníquese con nosotros vía foro o canal de Discord.
 
