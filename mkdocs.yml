@@ -21,3 +21,5 @@ pages:
     - Soporte de Aplicación: Troubleshooting/ApplicationTroubleshooting.md
     
 theme: readthedocs
+extra_css:
+    - rtfd-css/extra.css
