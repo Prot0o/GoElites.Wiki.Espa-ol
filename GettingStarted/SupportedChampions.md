@@ -4,7 +4,7 @@
 
 
 <div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i> Nidalee & Eve</i> </div>
-
+<a href="http://goeliteswiki.readthedocs.io/en/latest/"><img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/131/flag-for-united-kingdom_1f1ec-1f1e7.png" alt="French" style="width: 30px;"/></a> | **Yin** |
 <img src="https://i.imgur.com/hgcxqHj.png" style="width: 30px;">
 ### ADC
 | Nombre del campeon | Página del foro |
