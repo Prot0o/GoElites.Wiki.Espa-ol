@@ -4,8 +4,12 @@
 
 
 <div class="good_announcement" style="	background-color: #00cd00; border: 1px solid #009a00; border-left: 10px solid #009a00; font-size: 16px; margin-bottom: 12px; text-align: left; padding: 12px; color: white;"> <b>Últimos añadidos</b>: <i> Nidalee & Eve</i> </div>
-<a href="http://goeliteswiki.readthedocs.io/en/latest/"><img src="https://i.imgur.com/hgcxqHj.png" alt="French" style="width: 30px;"/></a> 
+TESTTTTTTTTTT
 
+<a href="https://goelites.net/index.php?/topic/391-ahri/"><img src="https://i.imgur.com/Q4U4Dyn.png" style="width: 30px;"/></a> 
+<a href="https://goelites.net/index.php?/topic/7-ezreal/"><img src="https://i.imgur.com/hgcxqHj.png" style="width: 30px;"/></a> 
+
+TESTTTTTTTTT
 ### ADC
 | Nombre del campeon | Página del foro |
 |--|--|
