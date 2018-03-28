@@ -34,7 +34,7 @@ a.header_link span {
 <div class="good_announcement"> 
     <img src="https://s.put.re/hzytMBa.png" style="width: 100px;">
     <a class="header_link" href="https://goelites.net"><span>></span> Forum</a>
-    <a class="header_link" href="https://discord.gg/m7RctYk"><span>></span> Discord</a>
+    <a class="header_link" href="https://discord.gg/f8jJuR"><span>></span> Discord</a>
 </div>
 
 **Bienvenidos a GoElites.Wiki**!
